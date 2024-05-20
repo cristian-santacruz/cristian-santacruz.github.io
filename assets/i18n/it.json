@@ -1,321 +1,322 @@
 {
-    "home": {
-        "pageTitle": "Italiano"
+  "home": {
+    "pageTitle": "Italiano"
+  },
+  "site-language": "Italiano",
+  "header": [
+    {
+      "link": "",
+      "name": "Home"
     },
-    "site-language": "Italiano",
-    "header": [
-        {
-            "link": "",
-            "name": "Home"
-        },
-        {
-            "link": "about",
-            "name": "Chi sono"
-        },
-        {
-            "link": "contact",
-            "name": "Contatti"
-        }
-    ],
-    "page-home__landing-text": {
-        "title": "Cristian Santacruz",
-        "role": "CREATIVE FRONTEND DEVELOPER"
+    {
+      "link": "about",
+      "name": "Chi sono"
     },
-    "page-home__landing-slide": [
-        {
-            "title": "Focalizzato",
-            "description": "Penso che il design sia come una \"bacchetta magica\". Se un servizio/prodotto è la magia per risolvere un problema il design funge da intermediario per facilitare all'utente di padroneggiarlo. Mi sforzo sempre a creare una \"bacchetta magica\" che corrisponda all'utente.",
-            "button": "Scopri di più"
-        },
-        {
-            "title": "Appassionato",
-            "description": "Apprezzo il mio mestiere, ho una profonda passione per il progresso ed esisto per risolvere le sfide per i marchi in cui credo. Sin dall'inizio, la mia missione è stata quella di fare un ottimo lavoro e divertirmi nel farlo. Credo che la mia missione mi abbia guidato bene.",
-            "button": "Scopri di più"
-        },
-        {
-            "title": "Creativo",
-            "description": "Lavoro per creare soluzioni innovative che ispirino e promuovano relazioni memorabili tra i marchi e i loro clienti. Concentrandomi sul branding e sull'interfaccia UI/Web mi sforzo di creare prodotti utilizzabili e raffinati attraverso un design appassionato e deliberato.",
-            "button": "Scopri di più"
-        }
-    ],
-    "page-home__sublanding": {
-        "image": "image.png",
-        "title": "Progetto e codifico cose complesse magnificamente in un modo semplice e amo quello che faccio.",
-        "subtitle": "Come designer e sviluppatore capisco che l'interfaccia utente perfetta dovrebbe avere un bell'aspetto e funzionare bene. Scopro problemi e li risolvo. In breve, creo esperienze online più audaci."
-    },
-    "page-home__process": {
-        "label": "Come lavoro",
-        "title": "Processo di sviluppo",
-        "description": "Raggiungi i tuoi obiettivi di business con un'esperienza utente eccellente.\nIniziamo a lavorare sulla tua fantastica app web o mobile.",
-        "button-left": "Avvia un progetto",
-        "button-right": "Per saperne di più"
-    },
-    "page-home__service": {
-        "title": "Cosa faccio",
-        "description": "In qualità di partner strategico, progetto e realizzo siti Web, esperienze interattive ed e-commerce che si differenziano e risuonano nell'ambiente aziendale di oggi incentrato sul consumatore e in continua evoluzione. Ottimizzato con SEO e in bundle per tempi di risposta rapidi sulle reti mobili!",
-        "subtitle": "Servizi",
-        "background": [
-            "phone.png",
-            "pc.png",
-            "mockup.png"
-        ],
-        "list": [
-            {
-                "item_title": "Design",
-                "item_service": [
-                    "Ricerca e approfondimenti",
-                    "UI & UX Design",
-                    "App Development",
-                    "Supporto continuo"
-                ]
-            },
-            {
-                "item_title": "Branding",
-                "item_service": [
-                    "Posizionamento",
-                    "Logo e identità",
-                    "Campagne integrate"
-                ]
-            },
-            {
-                "item_title": "Websites",
-                "item_service": [
-                    "Architettura",
-                    "Copywriting",
-                    "Design e animazione",
-                    "Sviluppo"
-                ]
-            }
-        ]
-    },
-    "page-home__information": {
-        "label": "Piacere di conoscerti",
-        "title": "Ciao, sono Cristian",
-        "description": "Mi chiamo Cristian Santacruz. Lavoro come User Interface, User Experience Designer e Frontend Developer. Attualmente, lavoro come Frontend Developer presso Ediscom con un team straordinario per aiutare designer, product manager e ingegneri a collaborare meglio insieme. Al di fuori dei miei impegni a tempo pieno, lavoro con una selezionata base di clienti freelance per creare prodotti e soluzioni sorprendenti. Sono appassionato di creare e progettare esperienze deliziose con la combinazione di business, marketing e design UX/UI per rendere i clienti e gli utenti soddisfatti quando utilizzano prodotti e servizi online."
-    },
-    "component__box-interested": {
-        "title": "Avvia un progetto",
-        "subtitle": "Interessato a lavorare insieme?",
-        "button": "Facciamolo"
-    },
-    "component__info-site": {
-        "title": "Posizione",
-        "description": "Cristian Santacruz © 2017 - 2022 ",
-        "number": "",
-        "city": "Torino, Italia"
-    },
-    "component__projects": {
-        "title--home-page": "Projects",
-        "title--portfolio-page": "My Recent Works",
-        "filter": [
-            "All",
-            "Frontend",
-            "Design"
-        ],
-        "list": [
-            {
-                "title": "title titolo 1",
-                "description": "description titolo 1",
-                "target": "target titolo 1",
-                "url": "url site 1",
-                "image": "image 1"
-            },
-            {
-                "title": "title titolo 2",
-                "description": "description titolo 2",
-                "target": "target titolo 2",
-                "url": "url site 2",
-                "image": "image 2"
-            },
-            {
-                "title": "title titolo 3",
-                "description": "description titolo 3",
-                "target": "target titolo 3",
-                "url": "url site 3",
-                "image": "image 3"
-            }
-        ]
-    },
-    "component__social": {
-        "title": "Rimani aggiornato",
-        "subtitle": "Suggerimento: sono particolarmente attivo su Instagram.",
-        "list": [
-            {
-                "name": "Instagram",
-                "url": "https://www.instagram.com/_cristiansantacruz_/",
-                "icon": "instagram.png"
-            },
-            {
-                "name": "Linkedin",
-                "url": "https://www.linkedin.com/in/cristian-santacruz/",
-                "icon": "linkedin.png"
-            },
-            {
-                "name": "Facebook",
-                "url": "https://www.facebook.com/Cristian-Santacruz-110508110813867",
-                "icon": "facebook.png"
-            }
-        ]
-    },
-    "page-about": {
-        "title": "Simple Is Sublime",
-        "subtitle1": "Sono fortunato il mio lavoro è la mia passione.",
-        "subtitle2": "Progetto e codifico cose complesse magnificamente in un modo semplice e amo quello che faccio",
-        "experience-title": "Informazioni sull'esperienza",
-        "experience-description": [
-            "Sono attratto dalla sovrapposizione tra design e sviluppo.",
-            "Le mie competenze sono ampie: dall'UX Design allo sviluppo del Frontend.",
-            "Mi piace ogni aspetto e amo creare app Web e mobili dall'inizio alla fine.",
-            "Sono curioso e continuo a migliorare le mie capacità ogni giorno, inoltre mi piace provare altre tecnologie.",
-            "Sono specializzato nello sviluppo frontend con un'esperienza di 5 anni.",
-            "Ho fatto lavori a distanza, mi piace collaborare a progetti interessanti di cui posso essere orgoglioso.",
-            "Attualmente lavoro come sviluppatore creativo frontend presso Ediscom, uno studio con sede a Torino, in Italia."
-        ],
-        "free-time-title": "Tempo libero",
-        "free-time-description": [
-            "Nel tempo libero mi piace sperimentare cose nuove, sono molto attratto dall'ignoto.",
-            "Sono appassionato di crescita personale, sul mondo degli investimenti e delle crypto.",
-            "Mi piace abbastanza il mondo del fitness ma mi diverto molto di più correndo.",
-            "Mi piace molto il design, ballare, viaggiare e scoprire nuovi posti.",
-            "Sono anche un amante della natura, degli animali e di recente ho iniziato ad amare il trekking.",
-            "Voglio solo essere la versione migliore di me di ieri."
-        ]
-    },
-    "page-about__skills": {
-        "title": "Skills",
-        "design-title": "UI/UX Design",
-        "design-subtitle": "Apprezzo la struttura dei contenuti semplice, i modelli di progettazione puliti e le interazioni ponderate.",
-        "design-list": [
-            {
-                "name": "Adobe",
-                "item": [
-                    "Adobe XD",
-                    "Photoshop",
-                    "Illustrator"
-                ]
-            },
-            {
-                "name": "Design",
-                "item": [
-                    "UI & UX",
-                    "Web & App",
-                    "Logo"
-                ]
-            }
-        ],
-        "frontend-title": "Sviluppatore FrontEnd",
-        "frontend-subtitle": "Tendo a programmare le cose da zero e mi diverto a dare vita alle idee nel browser.",
-        "frontend-list": [
-            {
-                "name": "Languages",
-                "item": [
-                    "HTML5",
-                    "Bootstrap 3/4",
-                    "jQuery",
-                    "CSS3",
-                    "Sass/Scss/Less",
-                    "RESTful API"
-                ]
-            },
-            {
-                "name": "Trends",
-                "item": [
-                    "Angular",
-                    "React js",
-                    "GSAP",
-                    "Typescript",
-                    "Js ES6",
-                    "Anime js"
-                ]
-            },
-            {
-                "name": "Dev Tools",
-                "item": [
-                    "VS Code",
-                    "Codepen",
-                    "NPM",
-                    "Git",
-                    "Github",
-                    "Bitbucket"
-                ]
-            }
-        ],
-        "knowledge-title": "Più conoscenza",
-        "knowledge-list": [
-            {
-                "name": "CMS - Enterprise Portal - Others Languages",
-                "item": [
-                    "WordPress",
-                    "Woocommerce",
-                    "Liferay 7/7.1",
-                    "Drupal",
-                    "Magento",
-                    "Php",
-                    "React Native"
-                ]
-            }
-        ],
-        "services-title": "Informazioni sui servizi",
-        "services-subtitle": "Alta esperienza nella progettazione e sviluppo.",
-        "services-list": [
-            {
-                "name": "Informazioni sui miei servizi",
-                "item": [
-                    "Web & App Design",
-                    "Theme Development",
-                    "SEO",
-                    "DEM"
-                ]
-            },
-            {
-                "name": "Principale",
-                "item": [
-                    "Landing Page",
-                    "Frontend",
-                    "Animation"
-                ]
-            }
-        ],
-        "others-title-1": "Hard Skills",
-        "others-list-1": [
-            "Command lines",
-            "Responsive Design",
-            "Testing and Debugging",
-            "Cross-Browser Development",
-            "Browser Developer Tools",
-            "Building & Automation Tool/Web Performance"
-        ],
-        "others-title-2": "Soft SKills",
-        "others-list-2": [
-            "Creatività",
-            "Problem Solving",
-            "Comunicazione",
-            "Lavoro di squadra"
-        ]
-    },
-    "page-about__process": {
-        "title": "Processo di sviluppo",
-        "name1": "Strategia",
-        "label1": "Prima chiedi.",
-        "content1": "Prima di lanciarmi nella progettazione, mi assicuro sempre che stiamo ponendo le domande giuste e cercando di portare a termine le sfide giuste. Questa fase include ricerche di mercato, analisi competitive, consulenza ed esplorazione di possibili soluzioni.",
-        "name2": "Design",
-        "label2": "Problem solving.",
-        "content2": "Alla fine di questa fase avrai un design pixel perfetto per la tua app o sito web. Durante il passaggio dai wireframe al progetto finale creo prototipi simulando i risultati finali prima dello sviluppo.",
-        "name3": "Sviluppo",
-        "label3": "Dare vita ai disegni.",
-        "content3": "Dato che sono un designer che sa anche programmare, posso facilmente lavorare in stretta collaborazione con gli sviluppatori fino al traguardo e oltre. In caso di progetti web mi occupo anche di sviluppo frontend.",
-        "name4": "Garanzia di qualità",
-        "label4": "Processo trasparente.",
-        "content4": "Panoramica completa del mio processo di progettazione attraverso riunioni regolari. Dopo le versioni di progettazione iniziali, sono felice di eseguire test utente con i tuoi clienti per garantire le migliori soluzioni possibili per le loro esigenze."
-    },
-    "page-contact": {
-        "title": "Contatto",
-        "subtitle1": "Hai un bel progetto, come posso aiutarti?",
-        "subtitle2": "Sentiti libero di inviarmi un'e-mail a info@cristiansantacruz.it"
-    },
-    "page-contact__information": {
-        "label": "Sono sempre aperto a discutere del lavoro di progettazione del prodotto o di opportunità di partnership.",
-        "title": "Interessato a collaborare o investire?",
-        "description": "Posso lavorare a stretto contatto con designer e ingegneri di back-end, come unico front-end o in team Agile. Sfruttando le mie conoscenze di sviluppo posso trovare il modo migliore per rendere un layout affidabile e coerente. Al giorno d'oggi sono principalmente concentrato sullo sviluppo, ma di tanto in tanto mi piace progettare i miei progetti ed esplorare nuove tendenze visive."
+    {
+      "link": "contact",
+      "name": "Contatti"
     }
+  ],
+  "page-home__landing-text": {
+    "title": "Cristian Santacruz",
+    "role": "CREATIVE FRONTEND DEVELOPER"
+  },
+  "page-home__landing-slide": [
+    {
+      "title": "Focalizzato",
+      "description": "Penso che il design sia come una \"bacchetta magica\". Se un servizio/prodotto è la magia per risolvere un problema il design funge da intermediario per facilitare all'utente di padroneggiarlo. Mi sforzo sempre a creare una \"bacchetta magica\" che corrisponda all'utente.",
+      "button": "Scopri di più"
+    },
+    {
+      "title": "Appassionato",
+      "description": "Apprezzo il mio mestiere, ho una profonda passione per il progresso ed esisto per risolvere le sfide per i marchi in cui credo. Sin dall'inizio, la mia missione è stata quella di fare un ottimo lavoro e divertirmi nel farlo. Credo che la mia missione mi abbia guidato bene.",
+      "button": "Scopri di più"
+    },
+    {
+      "title": "Creativo",
+      "description": "Lavoro per creare soluzioni innovative che ispirino e promuovano relazioni memorabili tra i marchi e i loro clienti. Concentrandomi sul branding e sull'interfaccia UI/Web mi sforzo di creare prodotti utilizzabili e raffinati attraverso un design appassionato e deliberato.",
+      "button": "Scopri di più"
+    }
+  ],
+  "page-home__sublanding": {
+    "image": "image.png",
+    "title": "Progetto e codifico cose complesse magnificamente in un modo semplice e amo quello che faccio.",
+    "subtitle": "Come designer e sviluppatore capisco che l'interfaccia utente perfetta dovrebbe avere un bell'aspetto e funzionare bene. Scopro problemi e li risolvo. In breve, creo esperienze online più audaci."
+  },
+  "page-home__process": {
+    "label": "Come lavoro",
+    "title": "Processo di sviluppo",
+    "description": "Raggiungi i tuoi obiettivi di business con un'esperienza utente eccellente.\nIniziamo a lavorare sulla tua fantastica app web o mobile.",
+    "button-left": "Avvia un progetto",
+    "button-right": "Per saperne di più"
+  },
+  "page-home__service": {
+    "title": "Cosa faccio",
+    "description": "In qualità di partner strategico, progetto e realizzo siti Web, esperienze interattive ed e-commerce che si differenziano e risuonano nell'ambiente aziendale di oggi incentrato sul consumatore e in continua evoluzione. Ottimizzato con SEO e in bundle per tempi di risposta rapidi sulle reti mobili!",
+    "subtitle": "Servizi",
+    "background": [
+      "phone.png",
+      "pc.png",
+      "mockup.png"
+    ],
+    "list": [
+      {
+        "item_title": "Design",
+        "item_service": [
+          "Ricerca e approfondimenti",
+          "UI & UX Design",
+          "App Development",
+          "Supporto continuo"
+        ]
+      },
+      {
+        "item_title": "Branding",
+        "item_service": [
+          "Posizionamento",
+          "Logo e identità",
+          "Campagne integrate"
+        ]
+      },
+      {
+        "item_title": "Websites",
+        "item_service": [
+          "Architettura",
+          "Copywriting",
+          "Design e animazione",
+          "Sviluppo"
+        ]
+      }
+    ]
+  },
+  "page-home__information": {
+    "label": "Piacere di conoscerti",
+    "title": "Ciao, sono Cristian",
+    "description": "Mi chiamo Cristian Santacruz. Lavoro come User Interface, User Experience Designer e Frontend Developer. Attualmente, lavoro come Frontend Developer presso Ediscom con un team straordinario per aiutare designer, product manager e ingegneri a collaborare meglio insieme. Al di fuori dei miei impegni a tempo pieno, lavoro con una selezionata base di clienti freelance per creare prodotti e soluzioni sorprendenti. Sono appassionato di creare e progettare esperienze deliziose con la combinazione di business, marketing e design UX/UI per rendere i clienti e gli utenti soddisfatti quando utilizzano prodotti e servizi online."
+  },
+  "component__box-interested": {
+    "title": "Avvia un progetto",
+    "subtitle": "Interessato a lavorare insieme?",
+    "button": "Facciamolo"
+  },
+  "component__info-site": {
+    "title": "Posizione",
+    "description": "Cristian Santacruz © 2017 - 2022 ",
+    "number": "",
+    "city": "Torino, Italia"
+  },
+  "component__projects": {
+    "title--home-page": "Projects",
+    "title--portfolio-page": "My Recent Works",
+    "filter": [
+      "All",
+      "Frontend",
+      "Design"
+    ],
+    "list": [
+      {
+        "title": "title titolo 1",
+        "description": "description titolo 1",
+        "target": "target titolo 1",
+        "url": "url site 1",
+        "image": "image 1"
+      },
+      {
+        "title": "title titolo 2",
+        "description": "description titolo 2",
+        "target": "target titolo 2",
+        "url": "url site 2",
+        "image": "image 2"
+      },
+      {
+        "title": "title titolo 3",
+        "description": "description titolo 3",
+        "target": "target titolo 3",
+        "url": "url site 3",
+        "image": "image 3"
+      }
+    ]
+  },
+  "component__social": {
+    "title": "Rimani aggiornato",
+    "subtitle": "Suggerimento: sono particolarmente attivo su Instagram.",
+    "list": [
+      {
+        "name": "Instagram",
+        "url": "https://www.instagram.com/_cristiansantacruz_/",
+        "icon": "instagram.png"
+      },
+      {
+        "name": "Linkedin",
+        "url": "https://www.linkedin.com/in/cristian-santacruz/",
+        "icon": "linkedin.png"
+      },
+      {
+        "name": "Facebook",
+        "url": "https://www.facebook.com/Cristian-Santacruz-110508110813867",
+        "icon": "facebook.png"
+      }
+    ]
+  },
+  "page-about": {
+    "title": "Simple Is Sublime",
+    "subtitle1": "Sono fortunato il mio lavoro è la mia passione.",
+    "subtitle2": "Progetto e codifico cose complesse magnificamente in un modo semplice e amo quello che faccio",
+    "experience-title": "Informazioni sull'esperienza",
+    "experience-description": [
+      "Sono attratto dalla sovrapposizione tra design e sviluppo.",
+      "Le mie competenze sono ampie: dall'UX Design allo sviluppo del Frontend.",
+      "Mi piace ogni aspetto e amo creare app Web e mobili dall'inizio alla fine.",
+      "Sono curioso e continuo a migliorare le mie capacità ogni giorno, inoltre mi piace provare altre tecnologie.",
+      "Sono specializzato nello sviluppo frontend con un'esperienza di 5 anni.",
+      "Ho fatto lavori a distanza, mi piace collaborare a progetti interessanti di cui posso essere orgoglioso.",
+      "Attualmente lavoro come sviluppatore creativo frontend presso Ediscom, uno studio con sede a Torino, in Italia."
+    ],
+    "free-time-title": "Tempo libero",
+    "free-time-description": [
+      "Nel tempo libero mi piace sperimentare cose nuove, sono molto attratto dall'ignoto.",
+      "Sono appassionato di crescita personale, sul mondo degli investimenti e delle crypto.",
+      "Mi piace abbastanza il mondo del fitness ma mi diverto molto di più correndo.",
+      "Mi piace molto il design, ballare, viaggiare e scoprire nuovi posti.",
+      "Sono anche un amante della natura, degli animali e di recente ho iniziato ad amare il trekking.",
+      "Voglio solo essere la versione migliore di me di ieri."
+    ]
+  },
+  "page-about__skills": {
+    "title": "Skills",
+    "design-title": "UI/UX Design",
+    "design-subtitle": "Apprezzo la struttura dei contenuti semplice, i modelli di progettazione puliti e le interazioni ponderate.",
+    "design-list": [
+      {
+        "name": "Adobe",
+        "item": [
+          "Adobe XD",
+          "Photoshop",
+          "Illustrator"
+        ]
+      },
+      {
+        "name": "Design",
+        "item": [
+          "UI & UX",
+          "Web & App",
+          "Logo"
+        ]
+      }
+    ],
+    "frontend-title": "Sviluppatore FrontEnd",
+    "frontend-subtitle": "Tendo a programmare le cose da zero e mi diverto a dare vita alle idee nel browser.",
+    "frontend-list": [
+      {
+        "name": "Languages",
+        "item": [
+          "HTML5",
+          "Bootstrap 3/4",
+          "jQuery",
+          "CSS3",
+          "Sass/Scss/Less",
+          "RESTful API"
+        ]
+      },
+      {
+        "name": "Trends",
+        "item": [
+          "Three js",
+          "Angular",
+          "React js",
+          "GSAP",
+          "Typescript",
+          "Js ES6",
+          "Anime js"
+        ]
+      },
+      {
+        "name": "Dev Tools",
+        "item": [
+          "VS Code",
+          "Codepen",
+          "NPM",
+          "Git",
+          "Github",
+          "Bitbucket"
+        ]
+      }
+    ],
+    "knowledge-title": "Più conoscenza",
+    "knowledge-list": [
+      {
+        "name": "CMS - Enterprise Portal - Others Languages",
+        "item": [
+          "WordPress",
+          "Woocommerce",
+          "Liferay 7/7.1",
+          "Drupal",
+          "Magento",
+          "Php",
+          "React Native"
+        ]
+      }
+    ],
+    "services-title": "Informazioni sui servizi",
+    "services-subtitle": "Alta esperienza nella progettazione e sviluppo.",
+    "services-list": [
+      {
+        "name": "Informazioni sui miei servizi",
+        "item": [
+          "Web & App Design",
+          "Theme Development",
+          "SEO",
+          "DEM"
+        ]
+      },
+      {
+        "name": "Principale",
+        "item": [
+          "Landing Page",
+          "Frontend",
+          "Animation"
+        ]
+      }
+    ],
+    "others-title-1": "Hard Skills",
+    "others-list-1": [
+      "Command lines",
+      "Responsive Design",
+      "Testing and Debugging",
+      "Cross-Browser Development",
+      "Browser Developer Tools",
+      "Building & Automation Tool/Web Performance"
+    ],
+    "others-title-2": "Soft SKills",
+    "others-list-2": [
+      "Creatività",
+      "Problem Solving",
+      "Comunicazione",
+      "Lavoro di squadra"
+    ]
+  },
+  "page-about__process": {
+    "title": "Processo di sviluppo",
+    "name1": "Strategia",
+    "label1": "Prima chiedi.",
+    "content1": "Prima di lanciarmi nella progettazione, mi assicuro sempre che stiamo ponendo le domande giuste e cercando di portare a termine le sfide giuste. Questa fase include ricerche di mercato, analisi competitive, consulenza ed esplorazione di possibili soluzioni.",
+    "name2": "Design",
+    "label2": "Problem solving.",
+    "content2": "Alla fine di questa fase avrai un design pixel perfetto per la tua app o sito web. Durante il passaggio dai wireframe al progetto finale creo prototipi simulando i risultati finali prima dello sviluppo.",
+    "name3": "Sviluppo",
+    "label3": "Dare vita ai disegni.",
+    "content3": "Dato che sono un designer che sa anche programmare, posso facilmente lavorare in stretta collaborazione con gli sviluppatori fino al traguardo e oltre. In caso di progetti web mi occupo anche di sviluppo frontend.",
+    "name4": "Garanzia di qualità",
+    "label4": "Processo trasparente.",
+    "content4": "Panoramica completa del mio processo di progettazione attraverso riunioni regolari. Dopo le versioni di progettazione iniziali, sono felice di eseguire test utente con i tuoi clienti per garantire le migliori soluzioni possibili per le loro esigenze."
+  },
+  "page-contact": {
+    "title": "Contatto",
+    "subtitle1": "Hai un bel progetto, come posso aiutarti?",
+    "subtitle2": "Sentiti libero di inviarmi un'e-mail a info@cristiansantacruz.it"
+  },
+  "page-contact__information": {
+    "label": "Sono sempre aperto a discutere del lavoro di progettazione del prodotto o di opportunità di partnership.",
+    "title": "Interessato a collaborare o investire?",
+    "description": "Posso lavorare a stretto contatto con designer e ingegneri di back-end, come unico front-end o in team Agile. Sfruttando le mie conoscenze di sviluppo posso trovare il modo migliore per rendere un layout affidabile e coerente. Al giorno d'oggi sono principalmente concentrato sullo sviluppo, ma di tanto in tanto mi piace progettare i miei progetti ed esplorare nuove tendenze visive."
+  }
 }
